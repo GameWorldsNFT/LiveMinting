@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b54de0f4.css",
+    "main.js": "/static/js/main.e63df260.js",
+    "static/js/787.44c20469.chunk.js": "/static/js/787.44c20469.chunk.js",
+    "static/media/masterpassg.gif": "/static/media/masterpassg.d371192150c9326a301d.gif",
+    "static/media/logo.gif": "/static/media/logo.c78bc57baea5ec8dd50d.gif",
+    "static/media/GameCoinBlue.jpg": "/static/media/GameCoinBlue.6e2b1bb4ab6dd6617016.jpg",
+    "static/media/gameworldmall.png": "/static/media/gameworldmall.8b33e22a8d6a32bc2e6d.png",
+    "static/media/road3.png": "/static/media/road3.6feeefade9bcdebebc5e.png",
+    "static/media/road5.png": "/static/media/road5.8a0be135367cbe0324ac.png",
+    "static/media/road1.png": "/static/media/road1.89e8a5c9f78d4997b6e7.png",
+    "static/media/showcase.png": "/static/media/showcase.d3241fe2ad41deda5748.png",
+    "static/media/road4.png": "/static/media/road4.9f50259790be964f7504.png",
+    "static/media/road2.png": "/static/media/road2.5028ccfbdabd2becc230.png",
+    "static/media/road6.png": "/static/media/road6.d53af13ea47b1851b371.png",
+    "static/media/QRCODE.png": "/static/media/QRCODE.d87bb39acc27a08a08a0.png",
+    "static/media/instagram.png": "/static/media/instagram.80e598d8df0c0a94d580.png",
+    "static/media/ThirstyRoughBlack.otf": "/static/media/ThirstyRoughBlack.d0153c881ccffdbfa407.otf",
+    "static/media/team.png": "/static/media/team.4141a99a971868f40446.png",
+    "static/media/Inter-Regular.ttf": "/static/media/Inter-Regular.e89cb19905e7db5591b0.ttf",
+    "static/media/Montserrat-Black.ttf": "/static/media/Montserrat-Black.46e8b3d6aad654578958.ttf",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.fa8441f345d83a0bc4ec.ttf",
+    "static/media/applephotoicon.jpg": "/static/media/applephotoicon.d958bdb4daffcd9f3152.jpg",
+    "static/media/youtube.png": "/static/media/youtube.8df96c690694e324bd2f.png",
+    "static/media/discord.png": "/static/media/discord.5cb3ac6f7e7ceaf583cd.png",
+    "index.html": "/index.html",
+    "main.b54de0f4.css.map": "/static/css/main.b54de0f4.css.map",
+    "main.e63df260.js.map": "/static/js/main.e63df260.js.map",
+    "787.44c20469.chunk.js.map": "/static/js/787.44c20469.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b54de0f4.css",
+    "static/js/main.e63df260.js"
+  ]
+}
