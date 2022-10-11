@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.b54de0f4.css",
-    "main.js": "/static/js/main.fe392918.js",
+    "main.js": "/static/js/main.72045d02.js",
     "static/js/787.44c20469.chunk.js": "/static/js/787.44c20469.chunk.js",
     "static/media/GameCoinGifwebsite.gif": "/static/media/GameCoinGifwebsite.c1c1606a0d9d42fb1288.gif",
     "static/media/logo.gif": "/static/media/logo.c78bc57baea5ec8dd50d.gif",
     "static/media/GameCoinBlue.jpg": "/static/media/GameCoinBlue.6e2b1bb4ab6dd6617016.jpg",
+    "static/media/mallpic2.png": "/static/media/mallpic2.2479564a81dc9ff536ab.png",
     "static/media/gameworldmall.png": "/static/media/gameworldmall.8b33e22a8d6a32bc2e6d.png",
     "static/media/road3.png": "/static/media/road3.6feeefade9bcdebebc5e.png",
     "static/media/road5.png": "/static/media/road5.8a0be135367cbe0324ac.png",
@@ -26,11 +27,11 @@
     "static/media/discord.png": "/static/media/discord.5cb3ac6f7e7ceaf583cd.png",
     "index.html": "/index.html",
     "main.b54de0f4.css.map": "/static/css/main.b54de0f4.css.map",
-    "main.fe392918.js.map": "/static/js/main.fe392918.js.map",
+    "main.72045d02.js.map": "/static/js/main.72045d02.js.map",
     "787.44c20469.chunk.js.map": "/static/js/787.44c20469.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b54de0f4.css",
-    "static/js/main.fe392918.js"
+    "static/js/main.72045d02.js"
   ]
 }
